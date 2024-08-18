@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "da-notes-895aa": {
+      "hosting": {
+        "danotes": [
+          "da-notes-895aa"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "da-notes-895aa"
+  }
+}
